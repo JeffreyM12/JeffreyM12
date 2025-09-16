@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">🎓 Graduated with a Bachelor's degree in Software Engineering  <br>💻 Passionate about writing and maintaining clean, efficient code</p>
+<p align="left">🎓 Graduated with a Bachelor's degree in Software Engineering  <br>💻 Skilled in writing and maintaining clean, efficient code</p>
 
 ###
 
@@ -88,4 +88,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeffreyM12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
