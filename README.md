@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="left">Software Developer experienced in building web applications, automating workflows, cloud technologies, and optimizing databases.</p>
+<p align="left">Software Developer with knowledge and experience in building web applications, automating workflows, cloud technologies, and optimizing databases.</p>
 
 ###
 
