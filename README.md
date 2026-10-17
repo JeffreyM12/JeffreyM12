@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">🎓 Graduated with a Bachelor's degree in Software Engineering  <br>💻 Skilled in writing, debugging, and maintaining clean, efficient code<br>⚡ Fun fact: I love dogs, baking, hiking, reading, and drawing <br> 📫 How to reach me: jeffm101001@gmail.com
+<p align="left">🎓 Graduated with a Bachelor's degree in Software Engineering  <br>💻 Skilled in writing, debugging, and maintaining clean, efficient code<br>⚡ Fun fact: I love dogs, baking, cooking, hiking, reading, and drawing <br> 📫 How to reach me: jeffm101001@gmail.com
 
 ###
 
